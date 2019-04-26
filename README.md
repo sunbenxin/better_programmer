@@ -1,5 +1,6 @@
 # better_programmer
 The road to be a better programmer!!!
+
 https://dzone.com/articles/10-tips-on-how-to-be-a-great-programmer
 * read code as much as you can
 * practice code
